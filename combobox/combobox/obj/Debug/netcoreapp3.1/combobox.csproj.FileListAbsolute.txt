@@ -1,0 +1,15 @@
+C:\Users\Mostafa\source\repos\combobox\combobox\bin\Debug\netcoreapp3.1\combobox.exe
+C:\Users\Mostafa\source\repos\combobox\combobox\bin\Debug\netcoreapp3.1\combobox.deps.json
+C:\Users\Mostafa\source\repos\combobox\combobox\bin\Debug\netcoreapp3.1\combobox.runtimeconfig.json
+C:\Users\Mostafa\source\repos\combobox\combobox\bin\Debug\netcoreapp3.1\combobox.runtimeconfig.dev.json
+C:\Users\Mostafa\source\repos\combobox\combobox\bin\Debug\netcoreapp3.1\combobox.dll
+C:\Users\Mostafa\source\repos\combobox\combobox\bin\Debug\netcoreapp3.1\combobox.pdb
+C:\Users\Mostafa\source\repos\combobox\combobox\obj\Debug\netcoreapp3.1\combobox.csproj.AssemblyReference.cache
+C:\Users\Mostafa\source\repos\combobox\combobox\obj\Debug\netcoreapp3.1\combobox.Form1.resources
+C:\Users\Mostafa\source\repos\combobox\combobox\obj\Debug\netcoreapp3.1\combobox.csproj.GenerateResource.cache
+C:\Users\Mostafa\source\repos\combobox\combobox\obj\Debug\netcoreapp3.1\combobox.AssemblyInfoInputs.cache
+C:\Users\Mostafa\source\repos\combobox\combobox\obj\Debug\netcoreapp3.1\combobox.AssemblyInfo.cs
+C:\Users\Mostafa\source\repos\combobox\combobox\obj\Debug\netcoreapp3.1\combobox.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\source\repos\combobox\combobox\obj\Debug\netcoreapp3.1\combobox.dll
+C:\Users\Mostafa\source\repos\combobox\combobox\obj\Debug\netcoreapp3.1\combobox.pdb
+C:\Users\Mostafa\source\repos\combobox\combobox\obj\Debug\netcoreapp3.1\combobox.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\mostafa\web\WinApp\formreview2\formreview2\bin\Debug\netcoreapp3.1\formreview2.exe
+D:\mostafa\web\WinApp\formreview2\formreview2\bin\Debug\netcoreapp3.1\formreview2.deps.json
+D:\mostafa\web\WinApp\formreview2\formreview2\bin\Debug\netcoreapp3.1\formreview2.runtimeconfig.json
+D:\mostafa\web\WinApp\formreview2\formreview2\bin\Debug\netcoreapp3.1\formreview2.runtimeconfig.dev.json
+D:\mostafa\web\WinApp\formreview2\formreview2\bin\Debug\netcoreapp3.1\formreview2.dll
+D:\mostafa\web\WinApp\formreview2\formreview2\bin\Debug\netcoreapp3.1\formreview2.pdb
+D:\mostafa\web\WinApp\formreview2\formreview2\obj\Debug\netcoreapp3.1\formreview2.csproj.AssemblyReference.cache
+D:\mostafa\web\WinApp\formreview2\formreview2\obj\Debug\netcoreapp3.1\formreview2.Form1.resources
+D:\mostafa\web\WinApp\formreview2\formreview2\obj\Debug\netcoreapp3.1\formreview2.csproj.GenerateResource.cache
+D:\mostafa\web\WinApp\formreview2\formreview2\obj\Debug\netcoreapp3.1\formreview2.AssemblyInfoInputs.cache
+D:\mostafa\web\WinApp\formreview2\formreview2\obj\Debug\netcoreapp3.1\formreview2.AssemblyInfo.cs
+D:\mostafa\web\WinApp\formreview2\formreview2\obj\Debug\netcoreapp3.1\formreview2.csproj.CoreCompileInputs.cache
+D:\mostafa\web\WinApp\formreview2\formreview2\obj\Debug\netcoreapp3.1\formreview2.dll
+D:\mostafa\web\WinApp\formreview2\formreview2\obj\Debug\netcoreapp3.1\formreview2.pdb
+D:\mostafa\web\WinApp\formreview2\formreview2\obj\Debug\netcoreapp3.1\formreview2.genruntimeconfig.cache
